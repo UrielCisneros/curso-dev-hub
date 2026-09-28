@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "dev", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "/Users/urielcisneros/Documents/Mis Proyectos/curso-dev-hub", "run", "dev", "--", "--port", "5199"], "port": 5199 }
+  ]
+}
